@@ -1,0 +1,6 @@
+fastapi
+fastapi_cdn_host
+sqlmodel
+asyncmy
+uvicorn
+aiohttp
